@@ -626,3 +626,5 @@ For posterity, past versions of this AIP were:
 ## Footnotes
 
 [^security]: The initial `mainnet` deployment of AIP-41 will **not** address undergasing attacks, putting the onus on developers to protect themselves from it. This can be done most effectively by using either a _sample-and-consume_ or _trusted admin_ pattern as described in ["Security consideration: Preventing undergasing attacks"](#security-consideration-preventing-undergasing-attacks). In the future, special-purpose tools could be provided to detect lower-gas execution paths in the vulnerable code, which would allow developers to rewrite their contracts and avoid these design patterns.
+
+<!-- Auto-update: 2025-10-09T21:46:40.164595 -->
