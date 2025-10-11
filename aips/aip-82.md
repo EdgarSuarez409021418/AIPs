@@ -111,3 +111,5 @@ N.A.
 
 * On the devnet: with release v1.12
 * On the testnet and mainnet: depends on the AIP approval process
+
+<!-- Auto-update: 2025-10-11T10:12:37.170964 -->
